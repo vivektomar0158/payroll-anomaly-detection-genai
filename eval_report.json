@@ -1,0 +1,26 @@
+{
+  "rules_baseline": {
+    "tp": 31,
+    "fp": 0,
+    "fn": 4,
+    "precision": 1.0,
+    "recall": 0.886,
+    "f1": 0.939
+  },
+  "ml_isolation_forest": {
+    "tp": 29,
+    "fp": 25,
+    "fn": 6,
+    "precision": 0.537,
+    "recall": 0.829,
+    "f1": 0.652
+  },
+  "combined": {
+    "tp": 32,
+    "fp": 25,
+    "fn": 3,
+    "precision": 0.561,
+    "recall": 0.914,
+    "f1": 0.696
+  }
+}

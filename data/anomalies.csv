@@ -1,0 +1,304 @@
+employee_id,pay_period,rule,detail
+E0030,2023-12,salary_jump,+56.6% vs prior period
+E0030,2024-04,salary_jump,+27.6% vs prior period
+E0030,2024-11,salary_jump,+30.9% vs prior period
+E0034,2024-01,salary_jump,+84.3% vs prior period
+E0123,2024-01,salary_jump,+41.0% vs prior period
+E0126,2024-01,salary_jump,+55.4% vs prior period
+E0159,2024-01,salary_jump,+68.1% vs prior period
+E0201,2024-02,salary_jump,+68.7% vs prior period
+E0224,2023-11,salary_jump,+41.4% vs prior period
+E0301,2024-07,salary_jump,+61.2% vs prior period
+E0325,2024-02,salary_jump,+60.2% vs prior period
+E0330,2023-11,salary_jump,+55.0% vs prior period
+E0330,2024-02,salary_jump,+31.5% vs prior period
+E0333,2023-11,salary_jump,+72.3% vs prior period
+E0349,2024-05,salary_jump,+54.4% vs prior period
+E0358,2023-12,salary_jump,+49.1% vs prior period
+E0391,2024-06,salary_jump,+86.7% vs prior period
+E0391,2024-10,salary_jump,+30.5% vs prior period
+E0029,2023-06,duplicate_payment,2 payments totaling 13554.82
+E0045,2023-06,duplicate_payment,2 payments totaling 8034.78
+E0060,2023-06,duplicate_payment,2 payments totaling 14296.66
+E0312,2023-06,duplicate_payment,2 payments totaling 21064.68
+E0342,2023-06,duplicate_payment,2 payments totaling 9397.5
+E0380,2023-06,duplicate_payment,2 payments totaling 17387.58
+E0006,2023-04,ot_outlier,z-score 9.89
+E0006,2023-07,ot_outlier,z-score 6.25
+E0006,2024-04,ot_outlier,z-score 9.57
+E0006,2024-05,ot_outlier,z-score 10.45
+E0006,2024-09,ot_outlier,z-score 9.0
+E0006,2024-10,ot_outlier,z-score 10.4
+E0006,2024-12,ot_outlier,z-score 6.65
+E0007,2024-10,ot_outlier,z-score 10.06
+E0062,2024-03,ot_outlier,z-score 6.95
+E0071,2023-05,ot_outlier,z-score 6.23
+E0071,2023-06,ot_outlier,z-score 6.43
+E0071,2023-07,ot_outlier,z-score 7.76
+E0071,2024-01,ot_outlier,z-score 9.16
+E0071,2024-02,ot_outlier,z-score 6.39
+E0071,2024-11,ot_outlier,z-score 8.77
+E0084,2023-07,ot_outlier,z-score 10.32
+E0084,2023-09,ot_outlier,z-score 5.89
+E0084,2024-02,ot_outlier,z-score 6.85
+E0084,2024-09,ot_outlier,z-score 6.48
+E0090,2023-09,ot_outlier,z-score 6.65
+E0090,2024-06,ot_outlier,z-score 6.2
+E0090,2024-07,ot_outlier,z-score 8.95
+E0090,2024-09,ot_outlier,z-score 9.45
+E0090,2024-10,ot_outlier,z-score 5.91
+E0178,2023-02,ot_outlier,z-score 10.19
+E0178,2023-07,ot_outlier,z-score 8.82
+E0178,2023-11,ot_outlier,z-score 9.11
+E0178,2024-11,ot_outlier,z-score 7.71
+E0255,2023-03,ot_outlier,z-score 5.66
+E0255,2023-08,ot_outlier,z-score 8.67
+E0255,2023-09,ot_outlier,z-score 10.19
+E0255,2023-11,ot_outlier,z-score 9.97
+E0255,2024-01,ot_outlier,z-score 6.8
+E0255,2024-03,ot_outlier,z-score 7.58
+E0255,2024-05,ot_outlier,z-score 9.42
+E0255,2024-09,ot_outlier,z-score 7.74
+E0255,2024-11,ot_outlier,z-score 8.66
+E0337,2023-03,ot_outlier,z-score 8.98
+E0337,2023-08,ot_outlier,z-score 6.64
+E0337,2024-01,ot_outlier,z-score 5.81
+E0337,2024-02,ot_outlier,z-score 6.02
+E0337,2024-04,ot_outlier,z-score 7.57
+E0337,2024-10,ot_outlier,z-score 9.53
+E0360,2023-09,ot_outlier,z-score 8.4
+E0360,2024-02,ot_outlier,z-score 8.77
+E0360,2024-08,ot_outlier,z-score 6.82
+E0360,2024-11,ot_outlier,z-score 6.43
+E0360,2024-12,ot_outlier,z-score 6.78
+E0363,2023-03,ot_outlier,z-score 8.57
+E0363,2023-04,ot_outlier,z-score 7.61
+E0363,2023-05,ot_outlier,z-score 10.3
+E0363,2023-06,ot_outlier,z-score 6.31
+E0363,2023-10,ot_outlier,z-score 6.13
+E0363,2023-11,ot_outlier,z-score 9.11
+E0363,2024-06,ot_outlier,z-score 9.31
+E0363,2024-10,ot_outlier,z-score 6.98
+E0380,2023-01,ot_outlier,z-score 10.02
+E0380,2023-04,ot_outlier,z-score 8.46
+E0380,2023-06,ot_outlier,z-score 8.4
+E0380,2023-06,ot_outlier,z-score 8.4
+E0380,2023-08,ot_outlier,z-score 6.23
+E0380,2023-10,ot_outlier,z-score 6.12
+E0380,2023-11,ot_outlier,z-score 6.8
+E0380,2024-03,ot_outlier,z-score 10.38
+E0380,2024-05,ot_outlier,z-score 7.16
+E0380,2024-06,ot_outlier,z-score 5.73
+E0380,2024-07,ot_outlier,z-score 8.77
+E0380,2024-09,ot_outlier,z-score 6.26
+E0380,2024-10,ot_outlier,z-score 8.2
+E0380,2023-06,ml_isolation_forest,anomaly_score=-0.797
+E0380,2024-03,ml_isolation_forest,anomaly_score=-0.776
+E0255,2023-09,ml_isolation_forest,anomaly_score=-0.775
+E0255,2023-11,ml_isolation_forest,anomaly_score=-0.775
+E0380,2023-01,ml_isolation_forest,anomaly_score=-0.773
+E0337,2024-10,ml_isolation_forest,anomaly_score=-0.773
+E0090,2024-09,ml_isolation_forest,anomaly_score=-0.772
+E0363,2023-05,ml_isolation_forest,anomaly_score=-0.772
+E0255,2024-05,ml_isolation_forest,anomaly_score=-0.772
+E0090,2024-07,ml_isolation_forest,anomaly_score=-0.771
+E0071,2024-01,ml_isolation_forest,anomaly_score=-0.771
+E0006,2024-10,ml_isolation_forest,anomaly_score=-0.77
+E0006,2024-05,ml_isolation_forest,anomaly_score=-0.77
+E0007,2024-10,ml_isolation_forest,anomaly_score=-0.769
+E0071,2024-11,ml_isolation_forest,anomaly_score=-0.767
+E0337,2023-03,ml_isolation_forest,anomaly_score=-0.767
+E0084,2023-07,ml_isolation_forest,anomaly_score=-0.767
+E0006,2023-04,ml_isolation_forest,anomaly_score=-0.767
+E0178,2023-02,ml_isolation_forest,anomaly_score=-0.766
+E0006,2024-04,ml_isolation_forest,anomaly_score=-0.765
+E0360,2024-02,ml_isolation_forest,anomaly_score=-0.765
+E0363,2024-06,ml_isolation_forest,anomaly_score=-0.764
+E0360,2023-09,ml_isolation_forest,anomaly_score=-0.764
+E0363,2023-11,ml_isolation_forest,anomaly_score=-0.764
+E0380,2024-07,ml_isolation_forest,anomaly_score=-0.763
+E0255,2024-11,ml_isolation_forest,anomaly_score=-0.763
+E0255,2023-08,ml_isolation_forest,anomaly_score=-0.763
+E0071,2023-07,ml_isolation_forest,anomaly_score=-0.763
+E0006,2024-09,ml_isolation_forest,anomaly_score=-0.762
+E0380,2023-04,ml_isolation_forest,anomaly_score=-0.761
+E0178,2023-11,ml_isolation_forest,anomaly_score=-0.761
+E0363,2023-03,ml_isolation_forest,anomaly_score=-0.759
+E0178,2023-07,ml_isolation_forest,anomaly_score=-0.756
+E0255,2024-09,ml_isolation_forest,anomaly_score=-0.756
+E0380,2024-10,ml_isolation_forest,anomaly_score=-0.756
+E0255,2024-03,ml_isolation_forest,anomaly_score=-0.753
+E0337,2024-04,ml_isolation_forest,anomaly_score=-0.753
+E0071,2023-06,ml_isolation_forest,anomaly_score=-0.75
+E0071,2024-02,ml_isolation_forest,anomaly_score=-0.75
+E0090,2023-09,ml_isolation_forest,anomaly_score=-0.75
+E0330,2024-02,ml_isolation_forest,anomaly_score=-0.748
+E0360,2024-08,ml_isolation_forest,anomaly_score=-0.747
+E0360,2024-12,ml_isolation_forest,anomaly_score=-0.747
+E0363,2023-04,ml_isolation_forest,anomaly_score=-0.747
+E0360,2024-11,ml_isolation_forest,anomaly_score=-0.746
+E0071,2023-05,ml_isolation_forest,anomaly_score=-0.746
+E0178,2024-11,ml_isolation_forest,anomaly_score=-0.745
+E0090,2024-06,ml_isolation_forest,anomaly_score=-0.744
+E0380,2024-05,ml_isolation_forest,anomaly_score=-0.744
+E0090,2024-10,ml_isolation_forest,anomaly_score=-0.742
+E0062,2024-03,ml_isolation_forest,anomaly_score=-0.738
+E0363,2024-10,ml_isolation_forest,anomaly_score=-0.737
+E0255,2024-01,ml_isolation_forest,anomaly_score=-0.736
+E0337,2023-08,ml_isolation_forest,anomaly_score=-0.735
+E0380,2023-11,ml_isolation_forest,anomaly_score=-0.734
+E0330,2023-11,ml_isolation_forest,anomaly_score=-0.732
+E0330,2024-12,ml_isolation_forest,anomaly_score=-0.731
+E0084,2024-02,ml_isolation_forest,anomaly_score=-0.728
+E0006,2024-12,ml_isolation_forest,anomaly_score=-0.728
+E0391,2024-06,ml_isolation_forest,anomaly_score=-0.727
+E0380,2024-09,ml_isolation_forest,anomaly_score=-0.725
+E0380,2023-08,ml_isolation_forest,anomaly_score=-0.725
+E0330,2024-07,ml_isolation_forest,anomaly_score=-0.724
+E0363,2023-06,ml_isolation_forest,anomaly_score=-0.724
+E0084,2024-09,ml_isolation_forest,anomaly_score=-0.723
+E0380,2023-10,ml_isolation_forest,anomaly_score=-0.723
+E0330,2024-06,ml_isolation_forest,anomaly_score=-0.722
+E0337,2024-02,ml_isolation_forest,anomaly_score=-0.721
+E0363,2023-10,ml_isolation_forest,anomaly_score=-0.719
+E0330,2023-12,ml_isolation_forest,anomaly_score=-0.718
+E0006,2023-07,ml_isolation_forest,anomaly_score=-0.717
+E0337,2024-01,ml_isolation_forest,anomaly_score=-0.716
+E0380,2024-06,ml_isolation_forest,anomaly_score=-0.711
+E0330,2024-08,ml_isolation_forest,anomaly_score=-0.71
+E0034,2024-12,ml_isolation_forest,anomaly_score=-0.709
+E0255,2023-03,ml_isolation_forest,anomaly_score=-0.708
+E0084,2023-09,ml_isolation_forest,anomaly_score=-0.706
+E0391,2024-10,ml_isolation_forest,anomaly_score=-0.705
+E0034,2024-01,ml_isolation_forest,anomaly_score=-0.704
+E0312,2023-06,ml_isolation_forest,anomaly_score=-0.697
+E0330,2024-01,ml_isolation_forest,anomaly_score=-0.695
+E0330,2024-04,ml_isolation_forest,anomaly_score=-0.693
+E0030,2023-12,ml_isolation_forest,anomaly_score=-0.693
+E0147,2024-11,ml_isolation_forest,anomaly_score=-0.691
+E0030,2024-11,ml_isolation_forest,anomaly_score=-0.689
+E0030,2024-01,ml_isolation_forest,anomaly_score=-0.687
+E0201,2024-02,ml_isolation_forest,anomaly_score=-0.687
+E0330,2024-09,ml_isolation_forest,anomaly_score=-0.686
+E0325,2024-02,ml_isolation_forest,anomaly_score=-0.683
+E0358,2024-09,ml_isolation_forest,anomaly_score=-0.683
+E0030,2024-04,ml_isolation_forest,anomaly_score=-0.68
+E0034,2024-05,ml_isolation_forest,anomaly_score=-0.675
+E0159,2024-03,ml_isolation_forest,anomaly_score=-0.675
+E0330,2024-11,ml_isolation_forest,anomaly_score=-0.671
+E0159,2024-01,ml_isolation_forest,anomaly_score=-0.669
+E0325,2024-05,ml_isolation_forest,anomaly_score=-0.667
+E0325,2024-03,ml_isolation_forest,anomaly_score=-0.667
+E0321,2024-03,ml_isolation_forest,anomaly_score=-0.667
+E0030,2024-07,ml_isolation_forest,anomaly_score=-0.666
+E0034,2024-07,ml_isolation_forest,anomaly_score=-0.666
+E0201,2024-05,ml_isolation_forest,anomaly_score=-0.665
+E0325,2024-10,ml_isolation_forest,anomaly_score=-0.664
+E0325,2024-12,ml_isolation_forest,anomaly_score=-0.663
+E0358,2024-05,ml_isolation_forest,anomaly_score=-0.663
+E0325,2024-08,ml_isolation_forest,anomaly_score=-0.658
+E0391,2024-11,ml_isolation_forest,anomaly_score=-0.656
+E0208,2024-03,ml_isolation_forest,anomaly_score=-0.656
+E0165,2023-08,ml_isolation_forest,anomaly_score=-0.652
+E0374,2024-10,ml_isolation_forest,anomaly_score=-0.65
+E0147,2024-08,ml_isolation_forest,anomaly_score=-0.648
+E0030,2024-12,ml_isolation_forest,anomaly_score=-0.648
+E0374,2024-09,ml_isolation_forest,anomaly_score=-0.647
+E0395,2023-05,ml_isolation_forest,anomaly_score=-0.646
+E0358,2023-12,ml_isolation_forest,anomaly_score=-0.643
+E0358,2024-07,ml_isolation_forest,anomaly_score=-0.638
+E0374,2024-07,ml_isolation_forest,anomaly_score=-0.637
+E0325,2024-09,ml_isolation_forest,anomaly_score=-0.637
+E0391,2024-07,ml_isolation_forest,anomaly_score=-0.634
+E0330,2024-10,ml_isolation_forest,anomaly_score=-0.634
+E0034,2024-10,ml_isolation_forest,anomaly_score=-0.634
+E0147,2024-04,ml_isolation_forest,anomaly_score=-0.633
+E0330,2024-03,ml_isolation_forest,anomaly_score=-0.632
+E0374,2024-12,ml_isolation_forest,anomaly_score=-0.632
+E0321,2024-06,ml_isolation_forest,anomaly_score=-0.63
+E0123,2024-05,ml_isolation_forest,anomaly_score=-0.629
+E0105,2024-08,ml_isolation_forest,anomaly_score=-0.627
+E0330,2024-05,ml_isolation_forest,anomaly_score=-0.626
+E0396,2024-04,ml_isolation_forest,anomaly_score=-0.625
+E0147,2023-01,ml_isolation_forest,anomaly_score=-0.624
+E0147,2024-07,ml_isolation_forest,anomaly_score=-0.624
+E0301,2024-07,ml_isolation_forest,anomaly_score=-0.623
+E0358,2024-04,ml_isolation_forest,anomaly_score=-0.622
+E0030,2024-05,ml_isolation_forest,anomaly_score=-0.621
+E0396,2023-07,ml_isolation_forest,anomaly_score=-0.618
+E0375,2024-06,ml_isolation_forest,anomaly_score=-0.618
+E0349,2024-11,ml_isolation_forest,anomaly_score=-0.618
+E0325,2024-11,ml_isolation_forest,anomaly_score=-0.618
+E0325,2024-04,ml_isolation_forest,anomaly_score=-0.618
+E0280,2024-03,ml_isolation_forest,anomaly_score=-0.617
+E0034,2024-06,ml_isolation_forest,anomaly_score=-0.616
+E0123,2024-01,ml_isolation_forest,anomaly_score=-0.616
+E0030,2024-10,ml_isolation_forest,anomaly_score=-0.616
+E0201,2024-10,ml_isolation_forest,anomaly_score=-0.614
+E0349,2024-06,ml_isolation_forest,anomaly_score=-0.614
+E0358,2024-06,ml_isolation_forest,anomaly_score=-0.613
+E0123,2024-11,ml_isolation_forest,anomaly_score=-0.612
+E0126,2024-01,ml_isolation_forest,anomaly_score=-0.612
+E0333,2023-11,ml_isolation_forest,anomaly_score=-0.612
+E0224,2024-05,ml_isolation_forest,anomaly_score=-0.612
+E0344,2024-11,ml_isolation_forest,anomaly_score=-0.612
+E0396,2023-11,ml_isolation_forest,anomaly_score=-0.611
+E0034,2024-02,ml_isolation_forest,anomaly_score=-0.61
+E0358,2024-11,ml_isolation_forest,anomaly_score=-0.61
+E0215,2023-03,ml_isolation_forest,anomaly_score=-0.608
+E0349,2024-05,ml_isolation_forest,anomaly_score=-0.608
+E0147,2023-10,ml_isolation_forest,anomaly_score=-0.605
+E0102,2024-11,ml_isolation_forest,anomaly_score=-0.603
+E0034,2024-09,ml_isolation_forest,anomaly_score=-0.602
+E0034,2024-08,ml_isolation_forest,anomaly_score=-0.602
+E0147,2024-02,ml_isolation_forest,anomaly_score=-0.602
+E0054,2023-06,ml_isolation_forest,anomaly_score=-0.601
+E0030,2024-03,ml_isolation_forest,anomaly_score=-0.599
+E0034,2024-11,ml_isolation_forest,anomaly_score=-0.599
+E0333,2024-10,ml_isolation_forest,anomaly_score=-0.597
+E0325,2024-06,ml_isolation_forest,anomaly_score=-0.597
+E0126,2024-06,ml_isolation_forest,anomaly_score=-0.596
+E0374,2024-05,ml_isolation_forest,anomaly_score=-0.596
+E0335,2024-07,ml_isolation_forest,anomaly_score=-0.595
+E0147,2023-09,ml_isolation_forest,anomaly_score=-0.595
+E0030,2024-02,ml_isolation_forest,anomaly_score=-0.594
+E0318,2023-02,ml_isolation_forest,anomaly_score=-0.594
+E0215,2023-04,ml_isolation_forest,anomaly_score=-0.594
+E0375,2023-08,ml_isolation_forest,anomaly_score=-0.594
+E0051,2024-08,ml_isolation_forest,anomaly_score=-0.591
+E0045,2023-06,ml_isolation_forest,anomaly_score=-0.591
+E0391,2024-08,ml_isolation_forest,anomaly_score=-0.59
+E0358,2024-01,ml_isolation_forest,anomaly_score=-0.588
+E0131,2023-09,ml_isolation_forest,anomaly_score=-0.587
+E0147,2024-01,ml_isolation_forest,anomaly_score=-0.587
+E0378,2023-11,ml_isolation_forest,anomaly_score=-0.586
+E0224,2023-11,ml_isolation_forest,anomaly_score=-0.586
+E0201,2024-08,ml_isolation_forest,anomaly_score=-0.585
+E0374,2024-11,ml_isolation_forest,anomaly_score=-0.584
+E0358,2024-03,ml_isolation_forest,anomaly_score=-0.584
+E0142,2023-12,ml_isolation_forest,anomaly_score=-0.584
+E0142,2024-07,ml_isolation_forest,anomaly_score=-0.584
+E0349,2024-09,ml_isolation_forest,anomaly_score=-0.583
+E0358,2024-08,ml_isolation_forest,anomaly_score=-0.582
+E0034,2024-03,ml_isolation_forest,anomaly_score=-0.582
+E0395,2023-10,ml_isolation_forest,anomaly_score=-0.582
+E0051,2024-10,ml_isolation_forest,anomaly_score=-0.582
+E0070,2023-08,ml_isolation_forest,anomaly_score=-0.582
+E0201,2024-09,ml_isolation_forest,anomaly_score=-0.581
+E0201,2024-03,ml_isolation_forest,anomaly_score=-0.581
+E0333,2024-07,ml_isolation_forest,anomaly_score=-0.581
+E0391,2024-09,ml_isolation_forest,anomaly_score=-0.58
+E0224,2024-03,ml_isolation_forest,anomaly_score=-0.58
+E0349,2024-07,ml_isolation_forest,anomaly_score=-0.58
+E0321,2024-05,ml_isolation_forest,anomaly_score=-0.579
+E0321,2024-07,ml_isolation_forest,anomaly_score=-0.579
+E0147,2023-11,ml_isolation_forest,anomaly_score=-0.579
+E0267,2024-02,ml_isolation_forest,anomaly_score=-0.579
+E0093,2024-07,ml_isolation_forest,anomaly_score=-0.578
+E0369,2023-12,ml_isolation_forest,anomaly_score=-0.576
+E0224,2024-09,ml_isolation_forest,anomaly_score=-0.575
+E0201,2024-06,ml_isolation_forest,anomaly_score=-0.572
+E0319,2024-12,ml_isolation_forest,anomaly_score=-0.57
+E0123,2024-12,ml_isolation_forest,anomaly_score=-0.569
+E0201,2024-07,ml_isolation_forest,anomaly_score=-0.569
+E0192,2023-10,ml_isolation_forest,anomaly_score=-0.569
